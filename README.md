@@ -94,33 +94,33 @@ FraudGraphAnalyzer/
 
 O programa abrirá uma janela com:
 
-Painel gráfico interativo
+- Painel gráfico interativo
 
-Lista de contas e transações
+- Lista de contas e transações
 
-Caixa de logs com os resultados das análises
+- Caixa de logs com os resultados das análises
 
 ---
 
 📚 Conceitos Envolvidos
 
-DFS (Depth-First Search): usado para detectar ciclos e fraudes potenciais.
+- DFS (Depth-First Search): usado para detectar ciclos e fraudes potenciais.
 
-BFS (Breadth-First Search): usado para rastrear o caminho entre duas contas.
+- BFS (Breadth-First Search): usado para rastrear o caminho entre duas contas.
 
-Centralidade: identifica as contas mais influentes na rede.
+- Centralidade: identifica as contas mais influentes na rede.
 
 ---
 
 🧮 Exemplo de Uso
 
-Clique em Detectar Ciclos para verificar se há movimentações suspeitas.
+- Clique em Detectar Ciclos para verificar se há movimentações suspeitas.
 
-Digite duas contas (ex: A e D) e clique em Encontrar Caminho.
+- Digite duas contas (ex: A e D) e clique em Encontrar Caminho.
 
-Use Centralidade para ver quais contas mais participam em transações.
+- Use Centralidade para ver quais contas mais participam em transações.
 
-Exporte o grafo em formato DOT e visualize no Graphviz.
+- Exporte o grafo em formato DOT e visualize no Graphviz.
 
 ---
 
