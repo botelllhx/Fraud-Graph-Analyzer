@@ -41,6 +41,7 @@ O sistema detecta automaticamente tais padrões utilizando algoritmos de busca e
 
 ## 📊 Estrutura do Projeto
 
+```bash
 FraudGraphAnalyzer/
 ├── Graph/
 │ ├── Graph.cs # Estrutura principal do grafo
@@ -60,7 +61,7 @@ FraudGraphAnalyzer/
 │ ├── MainForm.Designer.cs # Layout e controles visuais
 │
 └── Program.cs # Ponto de entrada da aplicação
-
+```
 
 ---
 
@@ -124,6 +125,7 @@ Exporte o grafo em formato DOT e visualize no Graphviz.
 ---
 
 🧑‍💻 Organização do Código
+
 | Camada       | Descrição                                                |
 | ------------ | -------------------------------------------------------- |
 | **Models**   | Define as estruturas de dados (Node, Edge).              |
