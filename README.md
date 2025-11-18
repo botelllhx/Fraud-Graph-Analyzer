@@ -47,7 +47,7 @@ FraudGraphAnalyzer/
 │ ├── Graph.cs # Estrutura principal do grafo
 │ ├── Algorithms.cs # Algoritmos de DFS, BFS e detecção de ciclos
 │ ├── GraphRenderer.cs # Renderização visual do grafo
-│ └── GraphDotExporter.cs# Exporta o grafo em formato DOT (Graphviz)
+│ └── GraphDotExporter.cs # Exporta o grafo em formato DOT (Graphviz)
 │
 ├── Models/
 │ ├── Node.cs # Representa uma conta (nó)
